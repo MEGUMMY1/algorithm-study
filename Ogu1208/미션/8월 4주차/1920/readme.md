@@ -1,7 +1,7 @@
 ### `이분탐색 반복문, if문`
 - 알고리즘 개념 : `이진탐색` - `반복문`과 `재귀함수` 2가지 방법
 - [이진탐색 알고리즘 개념 feat.Java](https://cjh5414.github.io/binary-search/)
-- <img src="https://blog.kakaocdn.net/dn/chK2vn/btqV2aMJXLb/R4WAO203nzwzOKn4NNthpk/img.png">
+<img src="https://blog.kakaocdn.net/dn/chK2vn/btqV2aMJXLb/R4WAO203nzwzOKn4NNthpk/img.png">
 - 반복문 사용함
 
 <details>
@@ -51,10 +51,16 @@
 ```
 </details>
 
+### Solution)
+	
 - ❌ 1️⃣ 오답 : 처음에 for문의 while문이 돌아가지 않아서 여러번 다시 고쳤지만 계속 실패함. for문 그냥 처음부터 다시 작성했음
 - ❌ 2️⃣ 오답 : n==1일 case의 경우 생각하지 않았음
 
+<br>
+	
+	
 
+	
 ```java
 
   long f1 = 1, f2 = 0, result = 0;
@@ -72,11 +78,6 @@
 		}
     
 ```
-
-
-### ❗ 백준 제출 Java 주의점 ❗
-- class의 경우 `Main`으로 이름을 설정해야 컴파일 오류가 나지 않음
-
 
 
 
