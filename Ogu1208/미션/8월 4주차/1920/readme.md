@@ -1,4 +1,9 @@
+
+# Q_1920 이진탐색
+-----------
+
 ### `이분탐색 반복문, if문`
+----------
 - 알고리즘 개념 : `이진탐색` - `반복문`과 `재귀함수` 2가지 방법
 - [이진탐색 알고리즘 개념 feat.Java](https://cjh5414.github.io/binary-search/)
 <img src="https://blog.kakaocdn.net/dn/chK2vn/btqV2aMJXLb/R4WAO203nzwzOKn4NNthpk/img.png">
