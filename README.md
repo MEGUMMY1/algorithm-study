@@ -46,6 +46,12 @@
   
 ## 2021.09.06 ~ 2021.09.12
   
+- 난이도 상 문제
+  - 1. [백준 2178번-bfs(너비 우선 탐색)](https://www.acmicpc.net/problem/2178) - 안배웠지만 queue 이용하면 할 수 있어요. 한번 해보쇼
+  - 2. [백준 10845번-queue](https://www.acmicpc.net/problem/10845) - 그런김에 queue 구현 문제도 드립니다^^
+- 기본 문제
+  - 1. [백준 7568번-구현](https://www.acmicpc.net/problem/7568)
+  - 2. [백준 1676번-수학](https://www.acmicpc.net/problem/1676) - 기본문제도 난이도 쪼금 올려보도록 하겠습니다 ㅎㅎ
 </details>
 <details>
   <summary> 2021-09-02주차 미션 </summary>
